@@ -39,7 +39,7 @@ GIS is an events and community mobile application built for the Gulf Interventio
 
 <h3>🔔 Notifications</h3>
 <ul>
-  <li>Push/in-app notifications to keep users updated on events and activity.</li>
+  <li>Push notifications to keep users updated on events and activity.</li>
 </ul>
 
 <h2>Tech Stack</h2>
@@ -58,7 +58,7 @@ Built entirely using the <strong>MVVM</strong> architecture, separating Model (d
 
 <h2>My Role</h2>
 <p>
-Solely responsible for building the entire application end-to-end — from onboarding, auth, and events, to the community/social features and profile management — for 500+ medical professionals.
+Solely responsible for building the entire application end-to-end — from onboarding, auth, and events, to the community/social features and profile management 
 </p>
 
 <h2>Status</h2>

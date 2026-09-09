@@ -3,9 +3,15 @@
 
 <body>
 
-<h1>❤️ GIS - Gulf Intervention Society App</h1>
+<h1> GIS - Gulf Intervention Society App</h1>
 
 <h2>Overview</h2>
+<h2>⚠️ Note</h2>
+<p>
+This project was developed as part of a professional collaboration with a company (ICOM). 
+As it involves client-owned/proprietary code, the source code is not publicly available in this repository. 
+This README documents my personal contribution and role in the project.
+</p>
 <p>
 GIS is an events and community mobile application built for the Gulf Intervention Society — an external association for cardiac catheterization. The app allows medical professionals to discover and join upcoming events/conferences, stay updated with the latest news about the society, and learn more about the organization. Built and shipped entirely by me, live on both the <strong>App Store</strong> and <strong>Google Play</strong>.
 </p>
